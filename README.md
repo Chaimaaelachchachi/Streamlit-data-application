@@ -23,7 +23,6 @@ Fork it and change the data path!
 # Using pyecharts for interactive visualization
 
 https://user-images.githubusercontent.com/96205784/227559477-b36a1add-7a5a-4433-9b84-49252a7f3b52.mp4
-
 ![vis1](https://user-images.githubusercontent.com/96205784/227558029-ac71033d-a092-4eee-b245-e535b80cd7e8.png)
 ![vis2](https://user-images.githubusercontent.com/96205784/227558041-e5407245-5de4-4f5b-898c-cbb7e4fbaf5a.png)
 ![vis3](https://user-images.githubusercontent.com/96205784/227558044-d7671819-c4cd-40bd-a43c-ab8bbfb24365.png)
