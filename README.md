@@ -3,8 +3,8 @@ Building an interactive web application in order to automate the process of Data
 - Analysis of the need and study of the existing .
 - Data cleaning and analysis . 
 - Facilitate the access to the desired information.
-Context:
-            As part of our end-of-year internship at the National Superior School of Computing and
+- Context:
+-           As part of our end-of-year internship at the National Superior School of Computing and
             Analysis of Systems (ENSIAS) I had done my internship in the Chemical manufacturing com-
             pany OCP , world leader in the phosphate sector.
             The OCP Group is committed to improving the operational efficiency of its activities integra-
